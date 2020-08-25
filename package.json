@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "build": "parcel build index.html",
+    "dev": "parcel index.html",
+    "start": "node server.js"
+  },
   "dependencies": {
     "browserlist": "^1.0.1",
     "vue": "^2.6.11",
