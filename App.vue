@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import ColoredMonitor from 'components/coloredMonitor'
+import ColoredMonitor from '/components/coloredMonitor'
 
 export default {
   components: { ColoredMonitor },
